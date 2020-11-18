@@ -4,7 +4,7 @@ void func1(int* p);
 void func2(int** p);
 void func3(int*** p);
 void func4(int**** p);
-
+//This is first time to commint from vscode hahahaha
 int main(){
 		int i = 100;
 		int *p, **dp, ***tp;
